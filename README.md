@@ -4,7 +4,4 @@
 
 เขียนด้วย react + ethers.js
 
-```shell
-xxx
-```
-# mintsite-cx
+## mintsite-cx
